@@ -1,0 +1,18 @@
+# Core
+MetaTrader5
+pandas
+numpy
+python-dotenv
+
+# Brain (HMM)
+hmmlearn
+scikit-learn
+scipy
+
+# Dashboard
+streamlit
+plotly
+
+# Utilities
+loguru
+schedule

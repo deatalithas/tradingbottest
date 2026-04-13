@@ -1,0 +1,5 @@
+{
+  "name": "XAUUSD Trading Bot (HMM Architecture)",
+  "description": "Automated trading bot for XAUUSD using MetaTrader 5, Hidden Markov Models for market regime detection, and systemic risk management.",
+  "requestFramePermissions": []
+}
